@@ -20,7 +20,7 @@ const projects = [
       "Tools": ["Jupyter Notebook", "Streamlit", "Git"]
     },
     links: {
-      github: "google.com",
+      github: "https://www.google.com",
       live: "#"
     }
   },
